@@ -22,6 +22,7 @@ int main(){
 		<<"Total Salary="<<salary<<endl
 		<<"Income Tax ="<<incomeTax<<endl
 		<<"Net Salary ="<<netSalary<<endl;
+	cin.ignore();
 	cin.get();
 	return 0;
 }
